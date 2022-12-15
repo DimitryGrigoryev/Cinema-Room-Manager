@@ -23,7 +23,6 @@ public class Main {
         }
     }
 
-
     private static void printMenu() {
         System.out.println("""
                 1. Show the seats
@@ -159,6 +158,5 @@ public class Main {
             System.out.println();
         }
         System.out.println();
-
     }
 }

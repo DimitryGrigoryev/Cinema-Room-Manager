@@ -25,28 +25,31 @@ public class Main {
 
 
     private static void printMenu() {
-        System.out.println("1. Show the seats\n" +
-                "2. Buy a ticket\n" +
-                "3. Statistics\n" +
-                "0. Exit");
+        System.out.println("""
+                1. Show the seats
+                2. Buy a ticket
+                3. Statistics
+                0. Exit""");
     }
 
     private static void statistics(Cinema cinema) {
         int tickets = countTickets(cinema);
-        int seats = cinema.getRow() * cinema.getSeatInRow();;
+        int seats = cinema.getRow() * cinema.getSeatInRow();
         double percentage = (double)tickets / (double) seats * 100;
         int currentIncome = countCurrentIncome(cinema, seats);
         int totalIncome = countTotalIncome(cinema, seats);
 
-        System.out.printf("Number of purchased tickets: %d\n" +
-                "Percentage: %.2f%%\n" +
-                "Current income: $%d\n" +
-                "Total income: $%d\n", tickets, percentage, currentIncome, totalIncome);
+        System.out.printf("""
+                Number of purchased tickets: %d
+                Percentage: %.2f%%
+                Current income: $%d
+                Total income: $%d
+                """, tickets, percentage, currentIncome, totalIncome);
         System.out.println();
     }
 
     private static int countTotalIncome(Cinema cinema, int seats) {
-        int totalIncome = 0;
+        int totalIncome;
         int checkKChangePrice = 60;
         if (seats > checkKChangePrice) {
             if (cinema.getRow() % 2 != 0) {
@@ -65,7 +68,7 @@ public class Main {
     private static int countCurrentIncome(Cinema cinema, int seats) {
         int checkKChangePrice = 60;
         int currentIncome = 0;
-        int priceOfSeat = 0;
+        int priceOfSeat;
         for (int i = 0; i < cinema.getRow(); i++) {
             for (int j = 0; j < cinema.getSeatInRow(); j++) {
                 if (cinema.getStatusSeat(i, j) == 'B') {
@@ -115,8 +118,8 @@ public class Main {
                     System.out.println("That ticket has already been purchased!\n");
                 } else {
                     int checkKChangePrice = 60;
-                    int seat = 0;
-                    int priceOfSeat = 0;
+                    int seat;
+                    int priceOfSeat;
 
                     seat = cinema.getRow() * cinema.getSeatInRow();
                     if (seat > checkKChangePrice) {

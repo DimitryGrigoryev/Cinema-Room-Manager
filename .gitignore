@@ -1,0 +1,201 @@
+Topics/section-info.yaml
+Topics/Array exceptions/lesson-info.yaml
+Topics/Array exceptions/A line that throws an exception/task-info.yaml
+Topics/Array exceptions/A line that throws an exception/task-remote-info.yaml
+Topics/Array exceptions/A line that throws an exception/task.html
+Topics/Array exceptions/A line that throws an exception/src/Task.java
+Topics/Array exceptions/Determine an exception/task-info.yaml
+Topics/Array exceptions/Determine an exception/task-remote-info.yaml
+Topics/Array exceptions/Determine an exception/task.html
+Topics/Array exceptions/Determine an exception/src/Task.java
+Topics/Array exceptions/Explore the standard class library/task-info.yaml
+Topics/Array exceptions/Explore the standard class library/task-remote-info.yaml
+Topics/Array exceptions/Explore the standard class library/task.html
+Topics/Array exceptions/Explore the standard class library/src/Task.java
+Topics/Array exceptions/Name an exception/task-info.yaml
+Topics/Array exceptions/Name an exception/task-remote-info.yaml
+Topics/Array exceptions/Name an exception/task.html
+Topics/Array exceptions/Name an exception/src/Task.java
+Topics/Array exceptions/Out of bounds/task-info.yaml
+Topics/Array exceptions/Out of bounds/task-remote-info.yaml
+Topics/Array exceptions/Out of bounds/task.html
+Topics/Array exceptions/Out of bounds/out/production/classes/FixingStringIndexOutOfBoundsException.class
+Topics/Array exceptions/Out of bounds/src/Main.java
+Topics/Array exceptions/Statements/task-info.yaml
+Topics/Array exceptions/Statements/task-remote-info.yaml
+Topics/Array exceptions/Statements/task.html
+Topics/Array exceptions/Statements/src/Task.java
+Topics/Array exceptions/Theory/task-info.yaml
+Topics/Array exceptions/Theory/task-remote-info.yaml
+Topics/Array exceptions/Theory/task.html
+Topics/Array exceptions/Theory/src/Task.java
+Topics/Array exceptions/Where an exception occurs/task-info.yaml
+Topics/Array exceptions/Where an exception occurs/task-remote-info.yaml
+Topics/Array exceptions/Where an exception occurs/task.html
+Topics/Array exceptions/Where an exception occurs/src/Task.java
+Topics/Multidimensional array/lesson-info.yaml
+Topics/Multidimensional array/Create cube/task-info.yaml
+Topics/Multidimensional array/Create cube/task-remote-info.yaml
+Topics/Multidimensional array/Create cube/task.html
+Topics/Multidimensional array/Create cube/out/production/classes/ArrayOperations.class
+Topics/Multidimensional array/Create cube/src/Main.java
+Topics/Multidimensional array/Find the corners/task-info.yaml
+Topics/Multidimensional array/Find the corners/task-remote-info.yaml
+Topics/Multidimensional array/Find the corners/task.html
+Topics/Multidimensional array/Find the corners/out/production/classes/ArrayOperations.class
+Topics/Multidimensional array/Find the corners/src/Main.java
+Topics/Multidimensional array/Indexing rules/task-info.yaml
+Topics/Multidimensional array/Indexing rules/task-remote-info.yaml
+Topics/Multidimensional array/Indexing rules/task.html
+Topics/Multidimensional array/Indexing rules/src/Task.java
+Topics/Multidimensional array/Rotate a rectangle array/task-info.yaml
+Topics/Multidimensional array/Rotate a rectangle array/task-remote-info.yaml
+Topics/Multidimensional array/Rotate a rectangle array/task.html
+Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/Main.class
+Topics/Multidimensional array/Rotate a rectangle array/src/Main.java
+Topics/Multidimensional array/Theory/task-info.yaml
+Topics/Multidimensional array/Theory/task-remote-info.yaml
+Topics/Multidimensional array/Theory/task.html
+Topics/Multidimensional array/Theory/src/Task.java
+.DS_Store
+build.gradle
+course-info.yaml
+course-remote-info.yaml
+gradlew
+gradlew.bat
+README.md
+settings.gradle
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+.gradle/file-system.probe
+.gradle/7.3.3/gc.properties
+.gradle/7.3.3/checksums/checksums.lock
+.gradle/7.3.3/checksums/md5-checksums.bin
+.gradle/7.3.3/checksums/sha1-checksums.bin
+.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock
+.gradle/7.3.3/dependencies-accessors/gc.properties
+.gradle/7.3.3/executionHistory/executionHistory.bin
+.gradle/7.3.3/executionHistory/executionHistory.lock
+.gradle/7.3.3/fileChanges/last-build.bin
+.gradle/7.3.3/fileHashes/fileHashes.bin
+.gradle/7.3.3/fileHashes/fileHashes.lock
+.gradle/7.3.3/fileHashes/resourceHashesCache.bin
+.gradle/7.4/gc.properties
+.gradle/7.4/checksums/checksums.lock
+.gradle/7.4/checksums/md5-checksums.bin
+.gradle/7.4/checksums/sha1-checksums.bin
+.gradle/7.4/dependencies-accessors/dependencies-accessors.lock
+.gradle/7.4/dependencies-accessors/gc.properties
+.gradle/7.4/executionHistory/executionHistory.bin
+.gradle/7.4/executionHistory/executionHistory.lock
+.gradle/7.4/fileChanges/last-build.bin
+.gradle/7.4/fileHashes/fileHashes.bin
+.gradle/7.4/fileHashes/fileHashes.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/vcs-1/gc.properties
+.idea/.gitignore
+.idea/compiler.xml
+.idea/externalDependencies.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/jpa-buddy.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/frameworkLessonHistory/storage.storageData
+.idea/frameworkLessonHistory/storage.storageRecordIndex
+.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml
+.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml
+.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+.idea/libraries/Gradle__junit_junit_4_13_2.xml
+.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml
+.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml
+.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml
+.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml
+.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml
+.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+.idea/modules/Cinema_Room_Manager.iml
+.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml
+.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml
+.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml
+.idea/modules/Cinema Room Manager/task/build/classes/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.iml
+.idea/modules/Cinema Room Manager/task/build/classes/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main.iml
+.idea/modules/Cinema Room Manager/task/build/classes/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.test.iml
+.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.iml
+.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main.iml
+.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.test.iml
+.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.iml
+.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main.iml
+.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.test.iml
+.idea/modules/Cinema Room Manager/task/build/reports/tests/Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.iml
+.idea/modules/Cinema Room Manager/task/build/reports/tests/Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main.iml
+.idea/modules/Cinema Room Manager/task/build/reports/tests/Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.test.iml
+.idea/modules/Cinema Room Manager/task/build/test-results/Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.iml
+.idea/modules/Cinema Room Manager/task/build/test-results/Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main.iml
+.idea/modules/Cinema Room Manager/task/build/test-results/Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.test.iml
+.idea/modules/Cinema Room Manager/task/build/tmp/Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.iml
+.idea/modules/Cinema Room Manager/task/build/tmp/Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main.iml
+.idea/modules/Cinema Room Manager/task/build/tmp/Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.test.iml
+.idea/modules/Topics/Array exceptions/A line that throws an exception/Cinema_Room_Manager.Topics-Array_exceptions-A_line_that_throws_an_exception.iml
+.idea/modules/Topics/Array exceptions/A line that throws an exception/Cinema_Room_Manager.Topics-Array_exceptions-A_line_that_throws_an_exception.main.iml
+.idea/modules/Topics/Array exceptions/A line that throws an exception/Cinema_Room_Manager.Topics-Array_exceptions-A_line_that_throws_an_exception.test.iml
+.idea/modules/Topics/Array exceptions/Determine an exception/Cinema_Room_Manager.Topics-Array_exceptions-Determine_an_exception.iml
+.idea/modules/Topics/Array exceptions/Determine an exception/Cinema_Room_Manager.Topics-Array_exceptions-Determine_an_exception.main.iml
+.idea/modules/Topics/Array exceptions/Determine an exception/Cinema_Room_Manager.Topics-Array_exceptions-Determine_an_exception.test.iml
+.idea/modules/Topics/Array exceptions/Explore the standard class library/Cinema_Room_Manager.Topics-Array_exceptions-Explore_the_standard_class_library.iml
+.idea/modules/Topics/Array exceptions/Explore the standard class library/Cinema_Room_Manager.Topics-Array_exceptions-Explore_the_standard_class_library.main.iml
+.idea/modules/Topics/Array exceptions/Explore the standard class library/Cinema_Room_Manager.Topics-Array_exceptions-Explore_the_standard_class_library.test.iml
+.idea/modules/Topics/Array exceptions/Name an exception/Cinema_Room_Manager.Topics-Array_exceptions-Name_an_exception.iml
+.idea/modules/Topics/Array exceptions/Name an exception/Cinema_Room_Manager.Topics-Array_exceptions-Name_an_exception.main.iml
+.idea/modules/Topics/Array exceptions/Name an exception/Cinema_Room_Manager.Topics-Array_exceptions-Name_an_exception.test.iml
+.idea/modules/Topics/Array exceptions/Out of bounds/Cinema_Room_Manager.Topics-Array_exceptions-Out_of_bounds.iml
+.idea/modules/Topics/Array exceptions/Out of bounds/Cinema_Room_Manager.Topics-Array_exceptions-Out_of_bounds.main.iml
+.idea/modules/Topics/Array exceptions/Out of bounds/Cinema_Room_Manager.Topics-Array_exceptions-Out_of_bounds.test.iml
+.idea/modules/Topics/Array exceptions/Statements/Cinema_Room_Manager.Topics-Array_exceptions-Statements.iml
+.idea/modules/Topics/Array exceptions/Statements/Cinema_Room_Manager.Topics-Array_exceptions-Statements.main.iml
+.idea/modules/Topics/Array exceptions/Statements/Cinema_Room_Manager.Topics-Array_exceptions-Statements.test.iml
+.idea/modules/Topics/Array exceptions/Theory/Cinema_Room_Manager.Topics-Array_exceptions-Theory.iml
+.idea/modules/Topics/Array exceptions/Theory/Cinema_Room_Manager.Topics-Array_exceptions-Theory.main.iml
+.idea/modules/Topics/Array exceptions/Theory/Cinema_Room_Manager.Topics-Array_exceptions-Theory.test.iml
+.idea/modules/Topics/Array exceptions/Where an exception occurs/Cinema_Room_Manager.Topics-Array_exceptions-Where_an_exception_occurs.iml
+.idea/modules/Topics/Array exceptions/Where an exception occurs/Cinema_Room_Manager.Topics-Array_exceptions-Where_an_exception_occurs.main.iml
+.idea/modules/Topics/Array exceptions/Where an exception occurs/Cinema_Room_Manager.Topics-Array_exceptions-Where_an_exception_occurs.test.iml
+.idea/modules/Topics/Multidimensional array/Create cube/Cinema_Room_Manager.Topics-Multidimensional_array-Create_cube.iml
+.idea/modules/Topics/Multidimensional array/Create cube/Cinema_Room_Manager.Topics-Multidimensional_array-Create_cube.main.iml
+.idea/modules/Topics/Multidimensional array/Create cube/Cinema_Room_Manager.Topics-Multidimensional_array-Create_cube.test.iml
+.idea/modules/Topics/Multidimensional array/Find the corners/Cinema_Room_Manager.Topics-Multidimensional_array-Find_the_corners.iml
+.idea/modules/Topics/Multidimensional array/Find the corners/Cinema_Room_Manager.Topics-Multidimensional_array-Find_the_corners.main.iml
+.idea/modules/Topics/Multidimensional array/Find the corners/Cinema_Room_Manager.Topics-Multidimensional_array-Find_the_corners.test.iml
+.idea/modules/Topics/Multidimensional array/Indexing rules/Cinema_Room_Manager.Topics-Multidimensional_array-Indexing_rules.iml
+.idea/modules/Topics/Multidimensional array/Indexing rules/Cinema_Room_Manager.Topics-Multidimensional_array-Indexing_rules.main.iml
+.idea/modules/Topics/Multidimensional array/Indexing rules/Cinema_Room_Manager.Topics-Multidimensional_array-Indexing_rules.test.iml
+.idea/modules/Topics/Multidimensional array/Rotate a rectangle array/Cinema_Room_Manager.Topics-Multidimensional_array-Rotate_a_rectangle_array.iml
+.idea/modules/Topics/Multidimensional array/Rotate a rectangle array/Cinema_Room_Manager.Topics-Multidimensional_array-Rotate_a_rectangle_array.main.iml
+.idea/modules/Topics/Multidimensional array/Rotate a rectangle array/Cinema_Room_Manager.Topics-Multidimensional_array-Rotate_a_rectangle_array.test.iml
+.idea/modules/Topics/Multidimensional array/Theory/Cinema_Room_Manager.Topics-Multidimensional_array-Theory.iml
+.idea/modules/Topics/Multidimensional array/Theory/Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main.iml
+.idea/modules/Topics/Multidimensional array/Theory/Cinema_Room_Manager.Topics-Multidimensional_array-Theory.test.iml
+.idea/modules/util/Cinema_Room_Manager.util.iml
+.idea/modules/util/Cinema_Room_Manager.util.main.iml
+.idea/modules/util/Cinema_Room_Manager.util.test.iml
+Cinema Room Manager/lesson-info.yaml
+Cinema Room Manager/Arrangement/task-info.yaml
+Cinema Room Manager/Arrangement/task-remote-info.yaml
+Cinema Room Manager/Arrangement/task.html
+Cinema Room Manager/Errors/task-info.yaml
+Cinema Room Manager/Errors/task-remote-info.yaml
+Cinema Room Manager/Errors/task.html
+Cinema Room Manager/Menu, please/task-info.yaml
+Cinema Room Manager/Menu, please/task-remote-info.yaml
+Cinema Room Manager/Menu, please/task.html
+Cinema Room Manager/Sold/task-info.yaml
+Cinema Room Manager/Sold/task-remote-info.yaml
+Cinema Room Manager/Sold/task.html
+Cinema Room Manager/Tickets/task-info.yaml
+Cinema Room Manager/Tickets/task-remote-info.yaml
+Cinema Room Manager/Tickets/task.html
